@@ -9,8 +9,8 @@ var people;
 //var apiKey = "COrdiz9qAt5OlZOLRyoKaaaG-60PkkxN";
 
 var apiKey = "I9NZqfpe2G8pVOtl4zI27Cbdnu6pCfBX";
-var db = "daveedlockard";
-var coll = "osc";
+var db = "passover";
+var coll = "pass";
 
 function setup(){
   name_field = createInput("me");
